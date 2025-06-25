@@ -1,6 +1,3 @@
-Sure! Here's a clean and beginner-friendly `README.md` file you can use for your **number guessing game** project on GitHub:
-
----
 
 ### 📄 `README.md`
 
@@ -71,14 +68,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
-
----
-
-Let me know if you'd like me to help generate:
-- A `LICENSE` file (MIT)?
-- A `.gitignore` for Python?
-- Upload your code to GitHub automatically via terminal commands?
-
-I'm happy to walk you through that too.
 ```
