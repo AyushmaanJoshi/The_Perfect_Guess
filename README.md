@@ -1,22 +1,20 @@
+## 📄 `README.md`
 
-### 📄 `README.md`
-
-````markdown
-# 🎯 Number Guessing Game (Python)
+## 🎯 Number Guessing Game (Python)
 
 This is a simple **number guessing game** built in Python where the user has to guess a randomly generated number between 1 and 10. The program provides hints if the guess is too high or too low and continues until the user guesses correctly.
 
 ---
 
 ## 🧠 How It Works
-
+```
 - The program randomly selects a number between 1 and 10.
 - The user is repeatedly prompted to guess the number.
 - The program gives feedback:
   - If the guess is too high → "Kindly decrease the number"
   - If the guess is too low → "Kindly increase the number"
   - If the guess is correct → Congratulates the user and ends the game
-
+```
 ---
 
 ## 🚀 How to Run
